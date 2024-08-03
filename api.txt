@@ -1,0 +1,13 @@
+  GET /api/blogs
+  GET /api/blogs/:slug
+  GET /api/blogs/:id
+  POST /api/blogs
+  PUT /api/blogs/:slug
+  PUT /api/blogs/:id
+  DEL /api/blogs/:slug
+  DEL /api/blogs/:id
+
+  GET /api/users
+  GET /api/users/:id
+  PUT /api/users/:id
+  DEL /api/users/:id
